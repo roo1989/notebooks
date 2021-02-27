@@ -28,8 +28,11 @@ Functionality or Methods can be described as things that the car can do. These a
 Let's take a car methods for example.
 
  - Accelerate -> 20km
- - Stee
+ - Steer -> -15, left
+ - Break -> Pressure
+
+Again these methods would be accessable through the dot notation but as methods instead of attributes (variables)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzEwOTAxMV19
+eyJoaXN0b3J5IjpbMjk3NTk2Mjg1XX0=
 -->
