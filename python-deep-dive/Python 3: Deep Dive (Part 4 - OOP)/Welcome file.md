@@ -24,7 +24,12 @@ Let's take a car attribute for example.
 
 ###  Functionality -> Behavior -> Methods (default)
 <hr />
-Functionality or Methods can be described as things that the car can do. These are normally in Python methods.
+Functionality or Methods can be described as things that the car can do. These are normally in Python methods.<br>
+Let's take a car methods for example.
+
+ - Accelerate -> 20km
+ - Stee
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE2MzAwMjRdfQ==
+eyJoaXN0b3J5IjpbMTQyNzEwOTAxMV19
 -->
