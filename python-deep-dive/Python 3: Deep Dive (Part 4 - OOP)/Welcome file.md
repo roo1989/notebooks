@@ -13,9 +13,14 @@ Let's take a car attribute for example.
  - Color -> Black
  - Transmission -> Manual
  
- Those are all attri
+ Those are all attributes or state of the car.
+ In Python, how you would access those attributes are normally with a dot notation.
+ Example:
+
+    car.brand
+    car.sub_
 
 ###  Functionality -> Behavior -> Methods (default)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODI1MDQ2NV19
+eyJoaXN0b3J5IjpbNzU4MzYyNjQxXX0=
 -->
