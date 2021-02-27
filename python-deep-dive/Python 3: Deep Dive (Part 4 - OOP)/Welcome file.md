@@ -53,8 +53,10 @@ Example:
     class MyClass:
         pass
 
-Here we have a class called MyClass that does nothing. But look 
+Here we have a class called MyClass that does nothing. But look at how we use the class keyword, mentioning that the class keyword is a reserved keyword in Python.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTQ3NjY1NiwtMTE5NjQ5ODU3NiwtOD
+eyJoaXN0b3J5IjpbMjAyMTY0MTA4MCwtMTE5NjQ5ODU3NiwtOD
 g1OTU5MzE2XX0=
 -->
