@@ -45,7 +45,7 @@ In many languages (C++, Java, Python) we use Classes or Types to create these ob
 To create an object from a class also known as a type, we create instances of that class with different attributes and methods.
 
 Classes themselfs are an object just like everything else in Python. And when we reference class to a type as well. Python Tuples and Lists are also classes but we refer to them as types.
-Classes are callabel, `MyClass()` can be called in Python just like that.
+Classes are callabel, `MyClass()` can be called in Python just like that and that will return an instance of that class or as you might have guessed it, an object.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mjc1MTkzOCwtODg1OTU5MzE2XX0=
+eyJoaXN0b3J5IjpbLTExOTY0OTg1NzYsLTg4NTk1OTMxNl19
 -->
