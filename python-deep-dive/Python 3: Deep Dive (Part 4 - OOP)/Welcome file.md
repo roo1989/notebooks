@@ -17,10 +17,12 @@ Let's take a car attribute for example.
  In Python, how you would access those attributes are normally with a dot notation.
  Example:
 
-    car.brand
-    car.sub_
+    car.brand -> "Opel"
+    car.sub_brand -> "Astra"
+    car.color -> "
+    car.transmission
 
 ###  Functionality -> Behavior -> Methods (default)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MzYyNjQxXX0=
+eyJoaXN0b3J5IjpbMTg4OTMyOTQ5XX0=
 -->
