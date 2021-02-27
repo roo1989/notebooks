@@ -46,6 +46,15 @@ To create an object from a class also known as a type, we create instances of th
 
 Classes themselfs are an object just like everything else in Python. And when we reference class to a type as well. Python Tuples and Lists are also classes but we refer to them as types.
 Classes are callabel, `MyClass()` can be called in Python just like that and that will return an instance of that class or as you might have guessed it, an object.
+
+Creating a class is quite simple.
+Example:
+
+    class MyClass:
+        pass
+
+Here we have a class called MyClass that does nothing. But look 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY0OTg1NzYsLTg4NTk1OTMxNl19
+eyJoaXN0b3J5IjpbMjA3NTQ3NjY1NiwtMTE5NjQ5ODU3NiwtOD
+g1OTU5MzE2XX0=
 -->
