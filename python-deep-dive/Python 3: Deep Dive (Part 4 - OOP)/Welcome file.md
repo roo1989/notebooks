@@ -59,7 +59,9 @@ An empty class that we created above, automatically provides us with certain att
 
 Example:
 
+    MyClass.__name__ # Will return the string representation of the name of the class. So "MyClass".
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTE1NjYyMCwtMTE5NjQ5ODU3NiwtOD
+eyJoaXN0b3J5IjpbMTA0ODgzNzgxNCwtMTE5NjQ5ODU3NiwtOD
 g1OTU5MzE2XX0=
 -->
