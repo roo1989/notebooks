@@ -55,8 +55,11 @@ Example:
 
 Here we have a class called MyClass that does nothing. But look at how we use the class keyword, mentioning that the class keyword is a reserved keyword in Python.
 
+An empty class that we created above, automatically provides us with certain attributes and methods even though we haven't done anything with that class.
+
+Example:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTY0MTA4MCwtMTE5NjQ5ODU3NiwtOD
+eyJoaXN0b3J5IjpbMTE1NTE1NjYyMCwtMTE5NjQ5ODU3NiwtOD
 g1OTU5MzE2XX0=
 -->
