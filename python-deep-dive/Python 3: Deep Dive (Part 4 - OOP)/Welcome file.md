@@ -41,6 +41,10 @@ Example:
 ## Creating an Object.
 
 In many languages (C++, Java, Python) we use Classes or Types to create these objects. Think of a class as a blueprint for an object.
+
+To create an object from a class also known as a type, we create instances of that class with different attributes and methods.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODk1NzcwMl19
+eyJoaXN0b3J5IjpbLTg4NTk1OTMxNl19
 -->
