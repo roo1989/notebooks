@@ -31,8 +31,13 @@ Let's take a car methods for example.
  - Steer -> -15, left
  - Break -> Pressure
 
-Again these methods would be accessable through the dot notation but as methods instead of attributes (variables)
+Again these methods would be accessable through the dot notation but as methods(functions) instead of attributes (variables).
+Example:
+
+    car.accelerate(20)
+    car.steer(-15)
+    car.break(5mt)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NTk2Mjg1XX0=
+eyJoaXN0b3J5IjpbMTM3OTg0MjY4OF19
 -->
