@@ -38,8 +38,9 @@ Example:
     car.steer(-15)
     car.break(5mt)
 
-#
+## Creating an Object.
 
+In many languages (C++, Java, Python) we use Classes or Types to create these objects. Think of a class as a blueprint for an object.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MTkwNTddfQ==
+eyJoaXN0b3J5IjpbLTYwODk1NzcwMl19
 -->
