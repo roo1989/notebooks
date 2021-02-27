@@ -19,10 +19,12 @@ Let's take a car attribute for example.
 
     car.brand -> "Opel"
     car.sub_brand -> "Astra"
-    car.color -> "
-    car.transmission
+    car.color -> "Black" or "#0000"
+    car.transmission -> "Manual"
 
 ###  Functionality -> Behavior -> Methods (default)
+<hr />
+Functionality or Methods can be described as things that the car can do. These are normally in Python methods.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTMyOTQ5XX0=
+eyJoaXN0b3J5IjpbLTExMDE2MzAwMjRdfQ==
 -->
